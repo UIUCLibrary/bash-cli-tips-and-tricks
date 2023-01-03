@@ -441,3 +441,9 @@ Can be useful in some situations, like debugging a web server on the machine its
 Will dump the headers actually being returned at the top of the file and the body
 of the reponse below it.
 
+--------------------------------------------------
+
+
+🙿  ncdu - navigating file sizes
+
+ncurses interactiv3e terminal that shows a  tree view of a directory structure, handly for looking for unusually large files.
